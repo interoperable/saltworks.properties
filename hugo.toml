@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/bellsneck.png"
   SEOTitle = "Interoperable.Systems"
-  description = "Interoperable"
+  description = "Saltworks Properties LLC"
   keyword = "Saltworks Properties"
   slogan = "Specializing in Cape Cod Costal and Massachusetts Ocean Front Real Estate"
   upstreamAttribution = true
@@ -59,7 +59,7 @@ home = ["HTML", "RSS", "Algolia"]
   #reward_guide = ""
 
   friends = true
-  bookmarks = false
+  bookmarks = true
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
@@ -88,28 +88,12 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Cloudbase Solutions"
-  href = "https://cloudbase.it"
-  [[params.friend_link]]
-  title = "Adam Young's Web Log"
-  href =  "https://adam.younglogic.com"
-  [[params.friend_link]]
-  title = "Klara Systems"
-  href = "https://klarasystems.com/"
+  title = "Bass River Properties"
+  href = "https://www.bassriverproperties.com"
 
-  [[params.bookmark_link]]
-  title =  "SlashDot"
-  href =  "https://slashdot.org"
   [[params.bookmark_link]]
   title = "CapeCod Times"
   href =  "http://www.capecodtimes.com"
-  
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/about/"
-  [[params.addtional_menus]]
-  title =  "Presentations"
-  href =  "/presentations/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
