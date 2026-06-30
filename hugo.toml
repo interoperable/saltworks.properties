@@ -58,7 +58,7 @@ home = ["HTML", "RSS", "Algolia"]
   reward = false
   #reward_guide = ""
 
-  friends = false
+  friends = true
   bookmarks = true
   about_me = true
 
@@ -87,9 +87,10 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.bookmark_link]]
+  [[params.friend_link]]
   title = "Bass River Properties"
   href = "https://www.bassriverproperties.com"
+
   [[params.bookmark_link]]
   title = "CapeCod Times"
   href =  "http://www.capecodtimes.com"
