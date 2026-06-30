@@ -90,7 +90,6 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.bookmark_link]]
   title = "Bass River Properties"
   href = "https://www.bassriverproperties.com"
-
   [[params.bookmark_link]]
   title = "CapeCod Times"
   href =  "http://www.capecodtimes.com"
