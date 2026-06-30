@@ -1,6 +1,6 @@
 baseurl = "https://saltworks.properties/"
 title = "Saltworks Properties"
-theme = "hugo-theme-cleanwhite"
+theme = "meghna-hugo"
 local = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -8,6 +8,9 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+[module]
+  [[module.imports]]
+    path = 'github.com/themefisher/meghna-hugo'
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
