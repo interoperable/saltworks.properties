@@ -58,8 +58,8 @@ home = ["HTML", "RSS", "Algolia"]
   reward = false
   #reward_guide = ""
 
-  friends = true
-  bookmarks = true
+  friends = false
+  bookmarks = false
   about_me = false
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
@@ -72,7 +72,7 @@ home = ["HTML", "RSS", "Algolia"]
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/peterpouliot"
+  #linkedin       = "https://www.linkedin.com/in/peterpouliot"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   #github         = "https://github.com/ppouliot"
