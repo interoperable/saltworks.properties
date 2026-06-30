@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/bellsneck.png"
-  SEOTitle = "Interoperable.Systems"
+  SEOTitle = "Saltworks Properties LLC"
   description = "Saltworks Properties LLC"
   keyword = "Saltworks Properties"
   slogan = "Specializing in Cape Cod Costal and Massachusetts Ocean Front Real Estate"
@@ -60,14 +60,14 @@ home = ["HTML", "RSS", "Algolia"]
 
   friends = true
   bookmarks = true
-  about_me = true
+  about_me = false
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss            = false
   email          = "peter@pouliot.net"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
@@ -75,7 +75,7 @@ home = ["HTML", "RSS", "Algolia"]
   linkedin       = "https://www.linkedin.com/in/peterpouliot"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/ppouliot"
+  #github         = "https://github.com/ppouliot"
   #wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
