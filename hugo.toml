@@ -58,7 +58,7 @@ home = ["HTML", "RSS", "Algolia"]
   reward = false
   #reward_guide = ""
 
-  friends = true
+  friends = false
   bookmarks = true
   about_me = true
 
@@ -76,7 +76,7 @@ home = ["HTML", "RSS", "Algolia"]
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   github         = "https://github.com/ppouliot"
-  wechat         = "your wechat qr code image"
+  #wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
   #pinterest     = "full profile url in pinterest"
@@ -87,7 +87,7 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.friend_link]]
+  [[params.bookmark_link]]
   title = "Bass River Properties"
   href = "https://www.bassriverproperties.com"
 
