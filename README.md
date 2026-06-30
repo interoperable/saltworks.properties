@@ -1,5 +1,5 @@
 # [Saltworks Properties LLC](https://saltworks.properties)
 [![Source Code](https://img.shields.io/badge/source-GitHub-blue.svg?style=flat)](https://github.com/interoperable/saltworks.properties)
-![deploy_hugo_site_to_pages workflow](https://github.com/interoperable/saltworks.properties/actions/workflows/deploy_hugo_site_to_pages.yml/badge.svg?label=build&style=flat-square&branch=main)
+![deploy_hugo_site_to_pages workflow](https://github.com/interoperable/saltworks.properties/actions/workflows/hugo.yml/badge.svg?label=build&style=flat-square&branch=main)
 ![GitHub deployments](https://img.shields.io/github/deployments/interoperable/saltworks.properties/github-pages)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsaltworks.properties)
