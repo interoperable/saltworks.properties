@@ -1,3 +1,7 @@
+
+
+
+
 # Build and Release Folders
 bin/
 bin-debug/
@@ -15,6 +19,20 @@ bin-release/
 *.apk
 
 # Hugo
-public/
 
-# Backup Files
+# Generated Output
+public/
+resources/
+
+# Local server and cache
+resources/_gen/
+public_gen/
+hugo_stats.json
+
+# Node.js (if you use PostCSS or Tailwind)
+node_modules/
+npm-debug.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
