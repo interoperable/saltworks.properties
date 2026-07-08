@@ -1,7 +1,7 @@
 baseURL = "https://saltworks.properties/"
 locale = "en-us"
 title = "Saltworks Properties"
-theme = "meghna-hugo"
+theme = "hugo-theme-cleanwhite"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
