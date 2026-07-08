@@ -1,14 +1,14 @@
-baseURL = "https://saltworks.properties/"
-locale = "en-us"
-title = "Saltworks Properties"
-theme = "hugo-theme-cleanwhite"
+baseURL = 'https://saltworks.properties/'
+locale = 'en-us'
+title = 'Saltworks Properties'
+theme = 'hugo-theme-cleanwhite'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 [params]
-  header_image = "img/bellsneck.png"
-  SEOTitle = "Saltworks Properties LLC"
-  description = "Saltworks Properties LLC"
-  keyword = "Saltworks Properties"
-  slogan = "Specializing in Cape Cod Costal and Massachusetts Ocean Front Real Estate"
+  header_image = 'img/bellsneck.png'
+  SEOTitle = 'Saltworks Properties LLC'
+  description = 'Saltworks Properties LLC'
+  keyword = 'Saltworks Properties'
+  slogan = 'Specializing in Cape Cod Costal and Massachusetts Ocean Front Real Estate'
   upstreamAttribution = true
